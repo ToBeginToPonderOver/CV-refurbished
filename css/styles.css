@@ -1,10 +1,6 @@
 body{
     margin: 0px;
-<<<<<<< HEAD
-    text-align: center;
-=======
     /* text-align: center; */
->>>>>>> 216ab02 (hello)
     font-family: 'Merriweather', serif;
 }
 h1{
@@ -69,19 +65,10 @@ hr{
 
 .mountain{
      width: 500px;
-<<<<<<< HEAD
-    height: 250px;
-}
-#cloud{
-    height: 75px;
-    width: 150px;
-}
-=======
     height: 250px;}
 #cloud{
     height: 75px;
     width: 150px;}
->>>>>>> 216ab02 (hello)
 
 .bottom-cloud{
     position: absolute ;
